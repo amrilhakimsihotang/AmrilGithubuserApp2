@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <string name="app_name">Amril Githubuser App2</string>
+        <string name="set_language">Ind - Eng</string>
+        <string name="bt_exit">Keluar</string>
+        <string name="fullname">Nama</string>
+        <string name="username">Nama Pengguna</string>
+        <string name="det_username">\@%s</string>
+        <string name="followings">%s Mengikuti</string>
+        <string name="followers">%s Pengikut</string>
+        <string name="location">%s Lokasi</string>
+        <string name="company">%s Perusahaan</string>
+        <string name="repository">%s Repository</string>
+        <string name="work">Bekerja</string>
+        <string name="empty">NULL</string>
+        <string name="separator">Separator</string>
+        <string name="count">Jumlah</string>
+        <string name="follwing">Mengikuti</string>
+        <string name="follwer">Pengikut</string>
+        <string name="repo">Repositories</string>
+
+
+    </resources>
+

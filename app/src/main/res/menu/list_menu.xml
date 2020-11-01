@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/change_language"
+        android:icon="@drawable/ic_baseline_language_24"
+        android:title="@string/set_language"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/exit_btn"
+        android:icon="@drawable/ic_baseline_exit_to_app_24"
+        android:title="@string/bt_exit"
+        app:showAsAction="never"/>
+</menu>

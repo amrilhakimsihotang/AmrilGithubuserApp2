@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Amril Githubuser App2</string>
+    <string name="set_language">Eng - Ind</string>
+    <string name="bt_exit">Exit</string>
+    <string name="fullname">Fullname</string>
+    <string name="username">Username</string>
+    <string name="det_username">\@%s</string>
+    <string name="followings">%s Following</string>
+    <string name="followers">%s Follower</string>
+    <string name="location">%s Location</string>
+    <string name="repository">%s Repository</string>
+    <string name="company">%s Company</string>
+
+
+    <string name="work">Work in</string>
+    <string name="empty">NULL</string>
+    <string name="separator">Separator</string>
+    <string name="count">Count</string>
+    <string name="follwing">Following</string>
+    <string name="follwer">Followers</string>
+    <string name="repo">Repositories</string>
+
+
+</resources>
